@@ -1,1 +1,0 @@
-.animate-fadeIn[data-v-b32e0b96]{animation:fadeIn-b32e0b96 .4s ease-out backwards}.animate-slide-up[data-v-b32e0b96]{animation:slideUp-b32e0b96 .4s ease-out backwards}@keyframes fadeIn-b32e0b96{0%{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}@keyframes slideUp-b32e0b96{0%{transform:translateY(16px);opacity:0}to{transform:translateY(0);opacity:1}}
