@@ -1,1 +1,0 @@
-import{S as e}from"./SharedParametresLayout-BhlsTSss.js";import{o as r,c as t}from"./vendor-C-d-Fhme.js";import"./DashboardLayout-KGzgh1-Q.js";import"./index-CGjXPmRr.js";const u={__name:"Parametres",setup(a){return(o,s)=>(r(),t(e,{title:"Paramètres du compte",subtitle:"Gérez vos préférences et sécurisez votre accès."}))}};export{u as default};
